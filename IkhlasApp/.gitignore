@@ -7,4 +7,4 @@ ios/build/
 *.keystore
 *.jks
 .env
-IkhlasApp/ikhlas-debug.apk
+*.apk
